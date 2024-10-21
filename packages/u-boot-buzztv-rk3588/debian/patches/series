@@ -1,0 +1,5 @@
+0001-cmd-source-fix-the-error-that-the-command-source-fai.patch
+0002-arch-arm-mach-rockchip-fix-srctree-path.patch
+0003-fix-gcc13-compile-error.patch
+0004-Fix-Noble-compile-error.patch
+0005-board-Add-BuzzTV-P6-support.patch
